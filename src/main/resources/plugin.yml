@@ -1,0 +1,11 @@
+name: RestartManager
+main: me.mrliam2614.restartmanager.RestartManager
+version: 1.0.0
+authors:
+  - MrLiam2614
+  - ImQuokka
+commands:
+  restartmanager:
+    aliases: [rm]
+depend:
+  - FacilitisAPI

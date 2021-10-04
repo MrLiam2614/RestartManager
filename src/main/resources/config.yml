@@ -1,0 +1,12 @@
+#AutoRestart in Minutes 0 for disable
+autorestart: 60
+##Values in seconds
+countdownFrom: 10
+#Allerts in seconds
+allerts:
+  - 60
+  - 120
+  - 280
+message:
+  restarting: "&cRestarting &6Server &7in &a{time}"
+  kickmessage: "&6Sunrise&aLand &7is &cRestarting&7, rejoin on 2 minutes"
